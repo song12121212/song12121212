@@ -45,7 +45,7 @@
 - Whisper 음성 인식, LLaMA 3 목적지 추출, Mapbox 오프라인 길안내
 - `Kotlin` `C++` `Whisper` `LLaMA 3` `QNN` `Mapbox`
   
-### [AI Image Message](https://github.com/song12121212/ppurio-message-service)
+### [AI Image Message](https://github.com/song12121212/ai-image-message)
 문자 내용과 날씨에 맞는 이미지를 생성하고 뿌리오 API로 전송하는 서비스 (5인 팀, 2024)
 - 메시지 작성·주소록 화면 개발, 날씨 위젯 오류 수정
 - DALL-E 3 연동, 이미지 용량 변환, 문자 전송 오류 수정
@@ -55,6 +55,12 @@
 학교 이메일로 인증하는 한성대 학생용 중고거래 앱 (4인 팀, 2024)
 - 상품 등록·검색, 지도 기반 조회, 실시간 채팅, 거래 후기
 - `Flutter` `Firebase` `Google Maps API`
+
+### [Campus Study Community](https://github.com/song12121212/campus-study-community)
+대학생이 공부 질문을 나누고 함께 공부할 사람을 찾는 iOS 커뮤니티 앱 (개인 프로젝트, 2025)
+- 실시간 게시판과 1:1 채팅, 이미지 업로드, 좋아요·위시리스트 구현
+- SwiftUI와 MVVM 구조, Firebase 인증·데이터베이스·저장소 연동
+- `Swift` `SwiftUI` `Firebase`
 
 ## 📂 More Projects
 
