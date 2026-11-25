@@ -19,6 +19,7 @@
 ### Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -39,6 +40,12 @@
 - LLM 호출 구조 개선으로 판정 비용 54% 절감 (React 요구사항 17개)
 - `React` `Spring Boot` `FastAPI` `PostgreSQL` `Claude API` `Docker` `AWS`
 
+### [AI Image Message](https://github.com/Kang0048/sw-20-Capstone)
+문자 내용과 날씨에 맞는 이미지를 생성하고 뿌리오 API로 전송하는 서비스 (5인 팀, 2024)
+- 메시지 작성·주소록 화면 개발, 날씨 위젯 오류 수정
+- DALL-E 3 연동, 이미지 용량 변환, 문자 전송 오류 수정
+- `JavaScript` `Node.js` `OpenAI API` `기상청 API` `뿌리오 API`
+
 ### [On-Device AI Navigation](https://github.com/Kang0048/Capstone)
 인터넷 연결 없이 음성으로 목적지를 찾고 길을 안내하는 앱 (4인 팀, 졸업 캡스톤)
 - Whisper 음성 인식, LLaMA 3 목적지 추출, Mapbox 오프라인 길안내
@@ -54,7 +61,7 @@
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
 | [CatchPing](https://github.com/song12121212/CatchPing) | 실시간 멀티플레이어 그림 퀴즈 | Java Swing, Socket |
-| [바디 캘린더](https://github.com/song12121212/body-calendar) | 운동 습관과 빈도를 기록하는 운동일지 앱 | Java, Android |
+| [바디 캘린더](https://github.com/song12121212/Body-callender) | 운동 습관과 빈도를 기록하는 운동일지 앱 | Java, Android |
 | [상품 관리 웹](https://github.com/song12121212/webprogramming) | 회원·권한별 상품 관리 | Spring Boot, JPA, MySQL |
 
 ---
@@ -62,6 +69,3 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=song12121212&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song12121212&layout=compact&theme=radical)
-
-붙여넣을 때 확인할 것
-- 바디 캘린더: - 저장소 이
