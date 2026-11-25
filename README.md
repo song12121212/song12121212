@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sanghun%20Song&fontSize=48&desc=Full-Stack%20%26%20LLM%20Application&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sanghun%20Song&fontSize=48" width="100%" alt="header">
 
 ## 👋 About Me
 화면부터 서버, LLM 파이프라인, 배포까지 연결해 본 개발자 송상훈입니다.
