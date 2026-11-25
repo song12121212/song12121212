@@ -45,7 +45,7 @@
 - Whisper 음성 인식, LLaMA 3 목적지 추출, Mapbox 오프라인 길안내
 - `Kotlin` `C++` `Whisper` `LLaMA 3` `QNN` `Mapbox`
   
-### [AI Image Message](https://github.com/song12121212/저장소이름)
+### [AI Image Message](https://github.com/song12121212/ppurio-message-service)
 문자 내용과 날씨에 맞는 이미지를 생성하고 뿌리오 API로 전송하는 서비스 (5인 팀, 2024)
 - 메시지 작성·주소록 화면 개발, 날씨 위젯 오류 수정
 - DALL-E 3 연동, 이미지 용량 변환, 문자 전송 오류 수정
